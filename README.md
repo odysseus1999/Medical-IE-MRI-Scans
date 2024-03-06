@@ -22,7 +22,7 @@ To begin working with theMedical-Image-Enhancement project, follow these steps:
 
 Clone the Repository:
 
-git clone [https://github.com/your-username/brain-tumor-classification.git](https://github.com/gabrielkmoraes/Medical-Image-Enhancement)
+git clone [https://github.com/odysseus1999/Medical-IE-MRI-Scans.git](https://github.com/odysseus1999/Medical-IE-MRI-Scans.git)
 
 Install Dependencies:
 
